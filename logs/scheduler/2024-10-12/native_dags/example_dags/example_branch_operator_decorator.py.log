@@ -93,3 +93,10 @@
 [2024-10-12T20:18:09.046+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:09.046+0700] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-10-12T20:18:09.065+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:09.065+0700] {dag.py:3954} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
 [2024-10-12T20:18:09.093+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.101 seconds
+[2024-10-12T20:19:26.471+0700] {processor.py:161} INFO - Started process (PID=16284) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-10-12T20:19:26.479+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2024-10-12T20:19:26.482+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:26.481+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-10-12T20:19:26.565+0700] {processor.py:840} INFO - DAG(s) 'example_branch_python_operator_decorator' retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-10-12T20:19:26.651+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:26.650+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:19:26.732+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:26.732+0700] {dag.py:3954} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:19:26.810+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.367 seconds

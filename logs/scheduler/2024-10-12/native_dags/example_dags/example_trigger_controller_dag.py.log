@@ -142,3 +142,10 @@
 [2024-10-12T20:18:30.895+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:30.895+0700] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-10-12T20:18:30.916+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:30.916+0700] {dag.py:3954} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
 [2024-10-12T20:18:30.954+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.091 seconds
+[2024-10-12T20:19:51.328+0700] {processor.py:161} INFO - Started process (PID=17061) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-10-12T20:19:51.330+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2024-10-12T20:19:51.331+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:51.330+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-10-12T20:19:51.341+0700] {processor.py:840} INFO - DAG(s) 'example_trigger_controller_dag' retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-10-12T20:19:51.371+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:51.369+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:19:51.396+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:51.395+0700] {dag.py:3954} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-10-12T20:19:51.426+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.105 seconds

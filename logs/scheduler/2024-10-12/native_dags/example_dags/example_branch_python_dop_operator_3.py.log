@@ -93,3 +93,10 @@
 [2024-10-12T20:18:46.009+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:46.009+0700] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-10-12T20:18:46.032+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:46.032+0700] {dag.py:3954} INFO - Setting next_dagrun for example_branch_dop_operator_v3 to 2024-10-12 13:17:00+00:00, run_after=2024-10-12 13:18:00+00:00
 [2024-10-12T20:18:46.059+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py took 0.085 seconds
+[2024-10-12T20:20:09.430+0700] {processor.py:161} INFO - Started process (PID=17224) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-10-12T20:20:09.432+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py for tasks to queue
+[2024-10-12T20:20:09.433+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:20:09.433+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-10-12T20:20:09.448+0700] {processor.py:840} INFO - DAG(s) 'example_branch_dop_operator_v3' retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-10-12T20:20:09.473+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:20:09.472+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:20:09.500+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:20:09.500+0700] {dag.py:3954} INFO - Setting next_dagrun for example_branch_dop_operator_v3 to 2024-10-12 13:19:00+00:00, run_after=2024-10-12 13:20:00+00:00
+[2024-10-12T20:20:09.531+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py took 0.109 seconds

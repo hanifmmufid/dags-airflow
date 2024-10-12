@@ -65,3 +65,10 @@
 [2024-10-12T20:18:19.088+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:19.087+0700] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-10-12T20:18:19.111+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:19.111+0700] {dag.py:3954} INFO - Setting next_dagrun for branching_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
 [2024-10-12T20:18:19.141+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/branching_dag.py took 0.100 seconds
+[2024-10-12T20:19:40.173+0700] {processor.py:161} INFO - Started process (PID=16956) to work on /home/hanifmmufid/airflow/dags/branching_dag.py
+[2024-10-12T20:19:40.174+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/branching_dag.py for tasks to queue
+[2024-10-12T20:19:40.175+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:40.175+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/branching_dag.py
+[2024-10-12T20:19:40.189+0700] {processor.py:840} INFO - DAG(s) 'branching_dag' retrieved from /home/hanifmmufid/airflow/dags/branching_dag.py
+[2024-10-12T20:19:40.202+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:40.201+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:19:40.222+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:40.221+0700] {dag.py:3954} INFO - Setting next_dagrun for branching_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:19:40.250+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/branching_dag.py took 0.086 seconds

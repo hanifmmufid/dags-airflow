@@ -93,3 +93,10 @@
 [2024-10-12T20:18:10.237+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:10.236+0700] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-10-12T20:18:10.254+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:10.253+0700] {dag.py:3954} INFO - Setting next_dagrun for example_weekday_branch_operator to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
 [2024-10-12T20:18:10.274+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.067 seconds
+[2024-10-12T20:19:29.615+0700] {processor.py:161} INFO - Started process (PID=16500) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-10-12T20:19:29.617+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2024-10-12T20:19:29.620+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:29.619+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-10-12T20:19:29.649+0700] {processor.py:840} INFO - DAG(s) 'example_weekday_branch_operator' retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-10-12T20:19:29.726+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:29.726+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:19:29.817+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:29.816+0700] {dag.py:3954} INFO - Setting next_dagrun for example_weekday_branch_operator to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:19:29.903+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.303 seconds
