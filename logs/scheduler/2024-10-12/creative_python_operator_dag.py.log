@@ -44,3 +44,17 @@
 [2024-10-12T20:15:01.248+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:15:01.247+0700] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-10-12T20:15:01.271+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:15:01.271+0700] {dag.py:3954} INFO - Setting next_dagrun for creative_python_operator_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
 [2024-10-12T20:15:01.298+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/creative_python_operator_dag.py took 0.090 seconds
+[2024-10-12T20:16:12.380+0700] {processor.py:161} INFO - Started process (PID=14305) to work on /home/hanifmmufid/airflow/dags/creative_python_operator_dag.py
+[2024-10-12T20:16:12.382+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/creative_python_operator_dag.py for tasks to queue
+[2024-10-12T20:16:12.382+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:16:12.382+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/creative_python_operator_dag.py
+[2024-10-12T20:16:12.395+0700] {processor.py:840} INFO - DAG(s) 'creative_python_operator_dag' retrieved from /home/hanifmmufid/airflow/dags/creative_python_operator_dag.py
+[2024-10-12T20:16:12.414+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:16:12.414+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:16:12.441+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:16:12.441+0700] {dag.py:3954} INFO - Setting next_dagrun for creative_python_operator_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:16:12.468+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/creative_python_operator_dag.py took 0.092 seconds
+[2024-10-12T20:17:33.059+0700] {processor.py:161} INFO - Started process (PID=14963) to work on /home/hanifmmufid/airflow/dags/creative_python_operator_dag.py
+[2024-10-12T20:17:33.061+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/creative_python_operator_dag.py for tasks to queue
+[2024-10-12T20:17:33.062+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:17:33.061+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/creative_python_operator_dag.py
+[2024-10-12T20:17:33.074+0700] {processor.py:840} INFO - DAG(s) 'creative_python_operator_dag' retrieved from /home/hanifmmufid/airflow/dags/creative_python_operator_dag.py
+[2024-10-12T20:17:33.096+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:17:33.096+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:17:33.123+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:17:33.122+0700] {dag.py:3954} INFO - Setting next_dagrun for creative_python_operator_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:17:33.157+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/creative_python_operator_dag.py took 0.104 seconds

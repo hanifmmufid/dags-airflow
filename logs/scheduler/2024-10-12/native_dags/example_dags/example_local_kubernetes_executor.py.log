@@ -119,3 +119,36 @@ ModuleNotFoundError: No module named 'kubernetes'
 [2024-10-12T20:14:46.980+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:14:46.980+0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
 [2024-10-12T20:14:46.980+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
 [2024-10-12T20:14:46.998+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.039 seconds
+[2024-10-12T20:15:58.576+0700] {processor.py:161} INFO - Started process (PID=14185) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-10-12T20:15:58.578+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-10-12T20:15:58.579+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:15:58.578+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-10-12T20:15:58.582+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:15:58.582+0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-10-12T20:15:58.582+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:15:58.582+0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-10-12T20:15:58.583+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-10-12T20:15:58.592+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2024-10-12T20:17:11.427+0700] {processor.py:161} INFO - Started process (PID=14815) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-10-12T20:17:11.430+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-10-12T20:17:11.432+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:17:11.431+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-10-12T20:17:11.452+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:17:11.451+0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-10-12T20:17:11.453+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:17:11.453+0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-10-12T20:17:11.454+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-10-12T20:17:11.490+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.088 seconds
+[2024-10-12T20:18:41.752+0700] {processor.py:161} INFO - Started process (PID=15560) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-10-12T20:18:41.753+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-10-12T20:18:41.756+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:41.754+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-10-12T20:18:41.759+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:41.758+0700] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-10-12T20:18:41.759+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:41.759+0700] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-10-12T20:18:41.759+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-10-12T20:18:41.768+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds

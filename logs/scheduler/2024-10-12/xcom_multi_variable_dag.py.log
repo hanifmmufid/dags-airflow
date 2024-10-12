@@ -44,3 +44,17 @@
 [2024-10-12T20:14:57.234+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:14:57.233+0700] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-10-12T20:14:57.250+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:14:57.250+0700] {dag.py:3954} INFO - Setting next_dagrun for xcom_multi_variable_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
 [2024-10-12T20:14:57.277+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/xcom_multi_variable_dag.py took 0.072 seconds
+[2024-10-12T20:16:08.149+0700] {processor.py:161} INFO - Started process (PID=14266) to work on /home/hanifmmufid/airflow/dags/xcom_multi_variable_dag.py
+[2024-10-12T20:16:08.153+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/xcom_multi_variable_dag.py for tasks to queue
+[2024-10-12T20:16:08.154+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:16:08.153+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/xcom_multi_variable_dag.py
+[2024-10-12T20:16:08.162+0700] {processor.py:840} INFO - DAG(s) 'xcom_multi_variable_dag' retrieved from /home/hanifmmufid/airflow/dags/xcom_multi_variable_dag.py
+[2024-10-12T20:16:08.174+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:16:08.173+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:16:08.190+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:16:08.190+0700] {dag.py:3954} INFO - Setting next_dagrun for xcom_multi_variable_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:16:08.215+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/xcom_multi_variable_dag.py took 0.072 seconds
+[2024-10-12T20:17:27.096+0700] {processor.py:161} INFO - Started process (PID=14923) to work on /home/hanifmmufid/airflow/dags/xcom_multi_variable_dag.py
+[2024-10-12T20:17:27.098+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/xcom_multi_variable_dag.py for tasks to queue
+[2024-10-12T20:17:27.100+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:17:27.099+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/xcom_multi_variable_dag.py
+[2024-10-12T20:17:27.130+0700] {processor.py:840} INFO - DAG(s) 'xcom_multi_variable_dag' retrieved from /home/hanifmmufid/airflow/dags/xcom_multi_variable_dag.py
+[2024-10-12T20:17:27.163+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:17:27.162+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:17:27.196+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:17:27.196+0700] {dag.py:3954} INFO - Setting next_dagrun for xcom_multi_variable_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:17:27.234+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/xcom_multi_variable_dag.py took 0.155 seconds
