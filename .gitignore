@@ -1,5 +1,5 @@
 # Ignore Python bytecode files
 dags/__pycache__/
 
-# Ignore log files
-logs/
+# Ignore all files and directories under logs
+logs/**
