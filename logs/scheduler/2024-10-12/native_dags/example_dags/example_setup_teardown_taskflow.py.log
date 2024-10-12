@@ -93,3 +93,10 @@
 [2024-10-12T20:17:59.040+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:17:59.040+0700] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-10-12T20:17:59.063+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:17:59.063+0700] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown_taskflow to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
 [2024-10-12T20:17:59.089+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.104 seconds
+[2024-10-12T20:19:15.779+0700] {processor.py:161} INFO - Started process (PID=16163) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-10-12T20:19:15.781+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2024-10-12T20:19:15.782+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:15.781+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-10-12T20:19:15.807+0700] {processor.py:840} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-10-12T20:19:15.840+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:15.840+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:19:15.940+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:15.940+0700] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown_taskflow to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:19:16.066+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.301 seconds

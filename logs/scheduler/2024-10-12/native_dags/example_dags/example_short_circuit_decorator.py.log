@@ -156,3 +156,10 @@
 [2024-10-12T20:18:25.421+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:25.421+0700] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-10-12T20:18:25.448+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:18:25.447+0700] {dag.py:3954} INFO - Setting next_dagrun for example_short_circuit_decorator to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
 [2024-10-12T20:18:25.479+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.131 seconds
+[2024-10-12T20:19:02.667+0700] {processor.py:161} INFO - Started process (PID=15779) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-10-12T20:19:02.669+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2024-10-12T20:19:02.671+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:02.670+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-10-12T20:19:02.701+0700] {processor.py:840} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-10-12T20:19:02.742+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:02.741+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:19:02.796+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:19:02.796+0700] {dag.py:3954} INFO - Setting next_dagrun for example_short_circuit_decorator to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:19:02.856+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.208 seconds
