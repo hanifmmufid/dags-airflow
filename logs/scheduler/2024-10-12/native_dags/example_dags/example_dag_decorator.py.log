@@ -1,0 +1,32 @@
+[2024-10-12T20:03:06.606+0700] {processor.py:161} INFO - Started process (PID=5800) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-12T20:03:06.607+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-10-12T20:03:06.608+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:03:06.608+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-12T20:03:06.816+0700] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-12T20:03:06.904+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:03:06.903+0700] {override.py:1901} INFO - Created Permission View: can edit on DAG:example_dag_decorator
+[2024-10-12T20:03:06.915+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:03:06.915+0700] {override.py:1901} INFO - Created Permission View: can read on DAG:example_dag_decorator
+[2024-10-12T20:03:06.925+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:03:06.924+0700] {override.py:1901} INFO - Created Permission View: can delete on DAG:example_dag_decorator
+[2024-10-12T20:03:06.925+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:03:06.925+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:03:06.931+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:03:06.931+0700] {dag.py:3118} INFO - Creating ORM DAG for example_dag_decorator
+[2024-10-12T20:03:06.931+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:03:06.931+0700] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-10-12T20:03:06.951+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.349 seconds
+[2024-10-12T20:04:12.092+0700] {processor.py:161} INFO - Started process (PID=6392) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-12T20:04:12.093+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-10-12T20:04:12.095+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:04:12.095+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-12T20:04:12.705+0700] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-12T20:04:12.987+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:04:12.986+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:04:13.011+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:04:13.010+0700] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-10-12T20:04:13.104+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 1.021 seconds
+[2024-10-12T20:05:12.747+0700] {processor.py:161} INFO - Started process (PID=7615) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-12T20:05:12.748+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-10-12T20:05:12.750+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:05:12.750+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-12T20:05:12.811+0700] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-12T20:05:12.883+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:05:12.883+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:05:12.891+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:05:12.890+0700] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-10-12T20:05:12.913+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.172 seconds
+[2024-10-12T20:06:22.426+0700] {processor.py:161} INFO - Started process (PID=8958) to work on /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-12T20:06:22.428+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-10-12T20:06:22.430+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:06:22.429+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-12T20:06:22.610+0700] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-12T20:06:22.761+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:06:22.761+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:06:22.768+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:06:22.768+0700] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-10-12T20:06:22.794+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow_env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.376 seconds
