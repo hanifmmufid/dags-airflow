@@ -30,3 +30,17 @@
 [2024-10-12T20:12:06.909+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:12:06.909+0700] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-10-12T20:12:06.955+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:12:06.954+0700] {dag.py:3954} INFO - Setting next_dagrun for taskflow_api_greeting_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
 [2024-10-12T20:12:07.004+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/taskflow_api_greeting_dag.py took 0.224 seconds
+[2024-10-12T20:13:32.958+0700] {processor.py:161} INFO - Started process (PID=12950) to work on /home/hanifmmufid/airflow/dags/taskflow_api_greeting_dag.py
+[2024-10-12T20:13:32.960+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/taskflow_api_greeting_dag.py for tasks to queue
+[2024-10-12T20:13:32.961+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:13:32.961+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/taskflow_api_greeting_dag.py
+[2024-10-12T20:13:32.973+0700] {processor.py:840} INFO - DAG(s) 'taskflow_api_greeting_dag' retrieved from /home/hanifmmufid/airflow/dags/taskflow_api_greeting_dag.py
+[2024-10-12T20:13:32.989+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:13:32.988+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:13:33.007+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:13:33.006+0700] {dag.py:3954} INFO - Setting next_dagrun for taskflow_api_greeting_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:13:33.040+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/taskflow_api_greeting_dag.py took 0.090 seconds
+[2024-10-12T20:14:57.793+0700] {processor.py:161} INFO - Started process (PID=13615) to work on /home/hanifmmufid/airflow/dags/taskflow_api_greeting_dag.py
+[2024-10-12T20:14:57.794+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/taskflow_api_greeting_dag.py for tasks to queue
+[2024-10-12T20:14:57.795+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:14:57.794+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/taskflow_api_greeting_dag.py
+[2024-10-12T20:14:57.802+0700] {processor.py:840} INFO - DAG(s) 'taskflow_api_greeting_dag' retrieved from /home/hanifmmufid/airflow/dags/taskflow_api_greeting_dag.py
+[2024-10-12T20:14:57.814+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:14:57.814+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:14:57.830+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:14:57.830+0700] {dag.py:3954} INFO - Setting next_dagrun for taskflow_api_greeting_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:14:57.850+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/taskflow_api_greeting_dag.py took 0.063 seconds

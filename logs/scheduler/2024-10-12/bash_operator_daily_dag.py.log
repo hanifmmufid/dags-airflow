@@ -30,3 +30,17 @@
 [2024-10-12T20:12:11.817+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:12:11.817+0700] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-10-12T20:12:11.846+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:12:11.846+0700] {dag.py:3954} INFO - Setting next_dagrun for bash_operator_daily_dag to 2024-10-01 00:00:00+00:00, run_after=2024-10-02 00:00:00+00:00
 [2024-10-12T20:12:11.929+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/bash_operator_daily_dag.py took 0.167 seconds
+[2024-10-12T20:13:36.952+0700] {processor.py:161} INFO - Started process (PID=12982) to work on /home/hanifmmufid/airflow/dags/bash_operator_daily_dag.py
+[2024-10-12T20:13:36.953+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/bash_operator_daily_dag.py for tasks to queue
+[2024-10-12T20:13:36.954+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:13:36.954+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/bash_operator_daily_dag.py
+[2024-10-12T20:13:36.962+0700] {processor.py:840} INFO - DAG(s) 'bash_operator_daily_dag' retrieved from /home/hanifmmufid/airflow/dags/bash_operator_daily_dag.py
+[2024-10-12T20:13:36.975+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:13:36.975+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:13:36.991+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:13:36.990+0700] {dag.py:3954} INFO - Setting next_dagrun for bash_operator_daily_dag to 2024-10-01 00:00:00+00:00, run_after=2024-10-02 00:00:00+00:00
+[2024-10-12T20:13:37.012+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/bash_operator_daily_dag.py took 0.066 seconds
+[2024-10-12T20:15:02.946+0700] {processor.py:161} INFO - Started process (PID=13663) to work on /home/hanifmmufid/airflow/dags/bash_operator_daily_dag.py
+[2024-10-12T20:15:02.947+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/bash_operator_daily_dag.py for tasks to queue
+[2024-10-12T20:15:02.948+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:15:02.948+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/bash_operator_daily_dag.py
+[2024-10-12T20:15:02.956+0700] {processor.py:840} INFO - DAG(s) 'bash_operator_daily_dag' retrieved from /home/hanifmmufid/airflow/dags/bash_operator_daily_dag.py
+[2024-10-12T20:15:02.967+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:15:02.967+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:15:02.981+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:15:02.981+0700] {dag.py:3954} INFO - Setting next_dagrun for bash_operator_daily_dag to 2024-10-01 00:00:00+00:00, run_after=2024-10-02 00:00:00+00:00
+[2024-10-12T20:15:03.005+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/bash_operator_daily_dag.py took 0.066 seconds

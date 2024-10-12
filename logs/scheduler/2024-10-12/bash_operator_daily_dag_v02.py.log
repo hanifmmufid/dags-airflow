@@ -30,3 +30,24 @@
 [2024-10-12T20:11:30.619+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:11:30.619+0700] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-10-12T20:11:30.643+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:11:30.643+0700] {dag.py:3954} INFO - Setting next_dagrun for bash_operator_daily_dag_v02 to 2024-09-28 07:30:00+00:00, run_after=2024-09-29 07:30:00+00:00
 [2024-10-12T20:11:30.671+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py took 0.100 seconds
+[2024-10-12T20:12:54.772+0700] {processor.py:161} INFO - Started process (PID=12640) to work on /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py
+[2024-10-12T20:12:54.774+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py for tasks to queue
+[2024-10-12T20:12:54.776+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:12:54.775+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py
+[2024-10-12T20:12:54.785+0700] {processor.py:840} INFO - DAG(s) 'bash_operator_daily_dag_v02' retrieved from /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py
+[2024-10-12T20:12:54.807+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:12:54.807+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:12:54.835+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:12:54.834+0700] {dag.py:3954} INFO - Setting next_dagrun for bash_operator_daily_dag_v02 to 2024-09-28 07:30:00+00:00, run_after=2024-09-29 07:30:00+00:00
+[2024-10-12T20:12:54.881+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py took 0.117 seconds
+[2024-10-12T20:14:20.650+0700] {processor.py:161} INFO - Started process (PID=13322) to work on /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py
+[2024-10-12T20:14:20.653+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py for tasks to queue
+[2024-10-12T20:14:20.655+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:14:20.654+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py
+[2024-10-12T20:14:20.678+0700] {processor.py:840} INFO - DAG(s) 'bash_operator_daily_dag_v02' retrieved from /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py
+[2024-10-12T20:14:20.719+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:14:20.718+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:14:20.779+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:14:20.779+0700] {dag.py:3954} INFO - Setting next_dagrun for bash_operator_daily_dag_v02 to 2024-09-28 07:30:00+00:00, run_after=2024-09-29 07:30:00+00:00
+[2024-10-12T20:14:20.833+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py took 0.193 seconds
+[2024-10-12T20:15:39.096+0700] {processor.py:161} INFO - Started process (PID=13984) to work on /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py
+[2024-10-12T20:15:39.099+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py for tasks to queue
+[2024-10-12T20:15:39.100+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:15:39.100+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py
+[2024-10-12T20:15:39.115+0700] {processor.py:840} INFO - DAG(s) 'bash_operator_daily_dag_v02' retrieved from /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py
+[2024-10-12T20:15:39.138+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:15:39.136+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:15:39.164+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:15:39.164+0700] {dag.py:3954} INFO - Setting next_dagrun for bash_operator_daily_dag_v02 to 2024-09-28 07:30:00+00:00, run_after=2024-09-29 07:30:00+00:00
+[2024-10-12T20:15:39.200+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/bash_operator_daily_dag_v02.py took 0.116 seconds
