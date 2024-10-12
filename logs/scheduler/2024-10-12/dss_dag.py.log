@@ -1,0 +1,32 @@
+[2024-10-12T20:07:09.926+0700] {processor.py:161} INFO - Started process (PID=9402) to work on /home/hanifmmufid/airflow/dags/dss_dag.py
+[2024-10-12T20:07:09.927+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/dss_dag.py for tasks to queue
+[2024-10-12T20:07:09.928+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:09.928+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/dss_dag.py
+[2024-10-12T20:07:10.163+0700] {processor.py:840} INFO - DAG(s) 'dss_dag' retrieved from /home/hanifmmufid/airflow/dags/dss_dag.py
+[2024-10-12T20:07:10.248+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:10.247+0700] {override.py:1901} INFO - Created Permission View: can edit on DAG:dss_dag
+[2024-10-12T20:07:10.262+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:10.261+0700] {override.py:1901} INFO - Created Permission View: can read on DAG:dss_dag
+[2024-10-12T20:07:10.273+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:10.273+0700] {override.py:1901} INFO - Created Permission View: can delete on DAG:dss_dag
+[2024-10-12T20:07:10.274+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:10.274+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:07:10.283+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:10.283+0700] {dag.py:3118} INFO - Creating ORM DAG for dss_dag
+[2024-10-12T20:07:10.298+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:10.298+0700] {dag.py:3954} INFO - Setting next_dagrun for dss_dag to 2024-09-01 00:00:00+00:00, run_after=2024-10-01 00:00:00+00:00
+[2024-10-12T20:07:10.324+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/dss_dag.py took 0.402 seconds
+[2024-10-12T20:08:17.540+0700] {processor.py:161} INFO - Started process (PID=10002) to work on /home/hanifmmufid/airflow/dags/dss_dag.py
+[2024-10-12T20:08:17.542+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/dss_dag.py for tasks to queue
+[2024-10-12T20:08:17.544+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:08:17.543+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/dss_dag.py
+[2024-10-12T20:08:17.827+0700] {processor.py:840} INFO - DAG(s) 'dss_dag' retrieved from /home/hanifmmufid/airflow/dags/dss_dag.py
+[2024-10-12T20:08:17.841+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:08:17.840+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:08:17.880+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:08:17.880+0700] {dag.py:3954} INFO - Setting next_dagrun for dss_dag to 2024-09-01 00:00:00+00:00, run_after=2024-10-01 00:00:00+00:00
+[2024-10-12T20:08:17.916+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/dss_dag.py took 0.382 seconds
+[2024-10-12T20:09:51.498+0700] {processor.py:161} INFO - Started process (PID=10742) to work on /home/hanifmmufid/airflow/dags/dss_dag.py
+[2024-10-12T20:09:51.500+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/dss_dag.py for tasks to queue
+[2024-10-12T20:09:51.501+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:09:51.501+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/dss_dag.py
+[2024-10-12T20:09:52.042+0700] {processor.py:840} INFO - DAG(s) 'dss_dag' retrieved from /home/hanifmmufid/airflow/dags/dss_dag.py
+[2024-10-12T20:09:52.093+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:09:52.093+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:09:52.193+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:09:52.188+0700] {dag.py:3954} INFO - Setting next_dagrun for dss_dag to 2024-09-01 00:00:00+00:00, run_after=2024-10-01 00:00:00+00:00
+[2024-10-12T20:09:52.248+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/dss_dag.py took 0.760 seconds
+[2024-10-12T20:11:26.982+0700] {processor.py:161} INFO - Started process (PID=11867) to work on /home/hanifmmufid/airflow/dags/dss_dag.py
+[2024-10-12T20:11:26.985+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/dss_dag.py for tasks to queue
+[2024-10-12T20:11:26.987+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:11:26.986+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/dss_dag.py
+[2024-10-12T20:11:27.360+0700] {processor.py:840} INFO - DAG(s) 'dss_dag' retrieved from /home/hanifmmufid/airflow/dags/dss_dag.py
+[2024-10-12T20:11:27.386+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:11:27.383+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:11:27.412+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:11:27.412+0700] {dag.py:3954} INFO - Setting next_dagrun for dss_dag to 2024-09-01 00:00:00+00:00, run_after=2024-10-01 00:00:00+00:00
+[2024-10-12T20:11:27.442+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/dss_dag.py took 0.466 seconds

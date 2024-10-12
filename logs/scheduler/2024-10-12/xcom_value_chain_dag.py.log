@@ -1,0 +1,32 @@
+[2024-10-12T20:07:16.616+0700] {processor.py:161} INFO - Started process (PID=9464) to work on /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py
+[2024-10-12T20:07:16.617+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py for tasks to queue
+[2024-10-12T20:07:16.619+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:16.618+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py
+[2024-10-12T20:07:16.630+0700] {processor.py:840} INFO - DAG(s) 'xcom_value_chain_dag' retrieved from /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py
+[2024-10-12T20:07:16.748+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:16.748+0700] {override.py:1901} INFO - Created Permission View: can edit on DAG:xcom_value_chain_dag
+[2024-10-12T20:07:16.767+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:16.767+0700] {override.py:1901} INFO - Created Permission View: can read on DAG:xcom_value_chain_dag
+[2024-10-12T20:07:16.783+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:16.782+0700] {override.py:1901} INFO - Created Permission View: can delete on DAG:xcom_value_chain_dag
+[2024-10-12T20:07:16.783+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:16.783+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:07:16.800+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:16.799+0700] {dag.py:3118} INFO - Creating ORM DAG for xcom_value_chain_dag
+[2024-10-12T20:07:16.817+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:07:16.816+0700] {dag.py:3954} INFO - Setting next_dagrun for xcom_value_chain_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:07:16.857+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py took 0.247 seconds
+[2024-10-12T20:08:53.786+0700] {processor.py:161} INFO - Started process (PID=10302) to work on /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py
+[2024-10-12T20:08:53.790+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py for tasks to queue
+[2024-10-12T20:08:53.791+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:08:53.791+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py
+[2024-10-12T20:08:53.808+0700] {processor.py:840} INFO - DAG(s) 'xcom_value_chain_dag' retrieved from /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py
+[2024-10-12T20:08:53.839+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:08:53.838+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:08:53.880+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:08:53.879+0700] {dag.py:3954} INFO - Setting next_dagrun for xcom_value_chain_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:08:53.939+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py took 0.167 seconds
+[2024-10-12T20:10:34.543+0700] {processor.py:161} INFO - Started process (PID=11408) to work on /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py
+[2024-10-12T20:10:34.545+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py for tasks to queue
+[2024-10-12T20:10:34.546+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:10:34.545+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py
+[2024-10-12T20:10:34.554+0700] {processor.py:840} INFO - DAG(s) 'xcom_value_chain_dag' retrieved from /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py
+[2024-10-12T20:10:34.565+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:10:34.565+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:10:34.581+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:10:34.581+0700] {dag.py:3954} INFO - Setting next_dagrun for xcom_value_chain_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:10:34.604+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py took 0.066 seconds
+[2024-10-12T20:12:02.814+0700] {processor.py:161} INFO - Started process (PID=12158) to work on /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py
+[2024-10-12T20:12:02.817+0700] {processor.py:830} INFO - Processing file /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py for tasks to queue
+[2024-10-12T20:12:02.820+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:12:02.819+0700] {dagbag.py:540} INFO - Filling up the DagBag from /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py
+[2024-10-12T20:12:02.859+0700] {processor.py:840} INFO - DAG(s) 'xcom_value_chain_dag' retrieved from /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py
+[2024-10-12T20:12:02.904+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:12:02.904+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-10-12T20:12:02.983+0700] {logging_mixin.py:188} INFO - [2024-10-12T20:12:02.983+0700] {dag.py:3954} INFO - Setting next_dagrun for xcom_value_chain_dag to 2024-10-11 00:00:00+00:00, run_after=2024-10-12 00:00:00+00:00
+[2024-10-12T20:12:03.073+0700] {processor.py:183} INFO - Processing /home/hanifmmufid/airflow/dags/xcom_value_chain_dag.py took 0.280 seconds
